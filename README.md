@@ -1,2 +1,6 @@
-# data_science_bootcamp
-All the assignments from the bootcamp with solutions
+# Data Science Bootcamp
+
+## Python
+- Control Flow
+- Data Sctructures
+- Function
