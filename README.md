@@ -2,5 +2,5 @@
 
 ## Python
 - Control Flow
-- Data Sctructures
-- Function
+- Data Structures
+- Functions
