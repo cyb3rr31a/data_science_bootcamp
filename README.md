@@ -5,3 +5,5 @@
 - Data Structures
 - Functions
 - Module & Packages
+- File Handling
+- Exception Handling
