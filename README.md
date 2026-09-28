@@ -7,5 +7,4 @@
 - Module & Packages
 - File Handling
 - Exception Handling
-
 - Object Oriented Programming concepts
